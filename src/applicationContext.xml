@@ -23,7 +23,7 @@
 			value="jdbc:mysql://localhost:3306/test">
 		</property>
 		<property name="username" value="root"></property>
-		<property name="password" value="alexander"></property>
+		<property name="password" value="123456"></property>
 	</bean>
       
     <!-- session工厂，是Spring加工过的 -->  
